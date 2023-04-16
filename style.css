@@ -1,0 +1,19 @@
+*{
+background-color: black;
+color: white;
+}
+div h2{
+    color: rgb(255, 91, 9); 
+}
+.class1, .class2, .class3{
+    background-color: rgb(54, 49, 49);
+    border-radius: 15px;
+    padding: 15px;
+}
+div:hover{
+    background-color:  rgb(255, 91, 9);
+}
+.date{
+    font-size: 0.70em;
+    color: rgb(101, 97, 97);
+}
